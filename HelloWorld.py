@@ -1,1 +1,1 @@
-print("HelloWorld!!!\n"*3)
+print("HelloWorld :-)\n"*3)
